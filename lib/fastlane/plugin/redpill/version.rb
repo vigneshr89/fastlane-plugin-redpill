@@ -1,5 +1,6 @@
 module Fastlane
   module Redpill
-    VERSION = "0.0.8"
+    #Trying to follow the supported xcode version
+    VERSION = "9.2.0"
   end
 end
