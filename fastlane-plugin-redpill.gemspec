@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'fastlane/plugin/redpill/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'fastlane-plugin-redpill-lastest'
+  spec.name          = 'fastlane-plugin-redpill'
   spec.version       = Fastlane::Redpill::VERSION
   spec.author        = 'vignesh'
   spec.email         = 'vicky*****thesky@gmail.com'
